@@ -1,3 +1,8 @@
+# Consideraciones
+
+> [!IMPORTANT]
+> Revisar las rutas de los archivos pdf y modificar el regex segun sea necesario ya que este archivo es un formato para usar en distintos casos
+
 # Entornos Viruales
 
 Los entornos virtuales permiten crear espacios aislados para ejecutar aplicaciones con todas sus dependencias,
