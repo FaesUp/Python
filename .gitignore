@@ -1,0 +1,9 @@
+# Ignorar archivos de configuración 
+*.log 
+*.tmp
+# Ignorar directorios especificos
+/invoices  
+# Ignorar entorno virtual 
+venv/
+# Ignorar archivos sensibles
+.env
